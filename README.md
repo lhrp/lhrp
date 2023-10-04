@@ -2,18 +2,18 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e8ae7&height=120&section=header"/>
 </div>
 
-<div align="center">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Leonardo+Henrique+Rangon+Paulino;Iniciante+em+programação;Focando+atualmente+no+estudo+da+linguagem+Python)](https://git.io/typing-svg)
-</div>
+##
 
-- 💻**Estudando:**
-  <div>
-    <a href="https://github.com/lhrp">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
-  </div>
+<div align="center">
+    <p>
+        - 💻**Estudando:**
+        <a href="https://github.com/lhrp">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank">
+    </p>
+</div>
 
 ##
 
@@ -45,10 +45,14 @@
   <a href="https://www.twitch.tv/lhrpp" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <div>
 
+##
+
 <div align="center">
     <p align="centre"><b>Visitas recebidas</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lhrp}/count.svg" /></p> 
 </div>
+
+##
 
 <div align="center">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e8ae7&height=120&section=footer"/>
