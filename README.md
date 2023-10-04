@@ -1,9 +1,6 @@
 <div align="center">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e8ae7&height=120&section=header"/>
 </div>
-
-##
-
 <div align="center">
     - 💻**Estudando:**
     <p>
@@ -52,9 +49,6 @@
     <p align="centre"><b>Visitas recebidas</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lhrp}/count.svg" /></p> 
 </div>
-
-##
-
 <div align="center">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e8ae7&height=120&section=footer"/>
 </div>
