@@ -10,3 +10,9 @@
   </div>
 
 ##
+
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleoshuya&langs_count=16&layout=compact&theme=dracula"/>
+</div>
+
+##
