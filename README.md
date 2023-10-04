@@ -1,4 +1,10 @@
-## Olá, Sou o Leonardo Henrique!✔
+<div align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e8ae7&height=120&section=header"/>
+</div>
+
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+o+Leonardo+Henrique+Rangon+Paulino;Iniciante+em+programação;Focando+atualmente+no+estudo+da+linguagem+Python)](https://git.io/typing-svg)
+</div>
 
 - 💻**Estudando:**
   <div>
@@ -39,7 +45,11 @@
   <a href="https://www.twitch.tv/lhrpp" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <div>
 
-<div align="center">    
+<div align="center">
     <p align="centre"><b>Visitas recebidas</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lhrp}/count.svg" /></p> 
+</div>
+
+<div align="center">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e8ae7&height=120&section=footer"/>
 </div>
