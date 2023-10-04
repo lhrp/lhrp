@@ -11,9 +11,9 @@
 
 ##
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhrp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhrp&langs_count=16&layout=compact&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lhrp&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Leonardo Henrique Rangon Paulino github status" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhrp&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ##
@@ -38,3 +38,8 @@
   <a href="https://www.youtube.com/channel/UC3lxxeCvPOf8ZvYKKm5Au_A" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/lhrpp" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <div>
+
+<div align="center">    
+    <p align="centre"><b>Visitas recebidas</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lhrp}/count.svg" /></p> 
+</div>
